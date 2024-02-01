@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * This class runs the application and handles the Product I/O
+ * This class rthe application and handles the Product I/O
  *
  * @author Siobhan Drohan, Mairead Meagher, Siobhan Roche
  * @version 2.3
