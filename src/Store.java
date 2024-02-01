@@ -20,7 +20,7 @@ public class Store {
     }
 
     /**
-     * If there is space available, add the product object, passed as a parameter, to the array.
+     * If there is space available, add the product,g object, passed as a parameter, to the array.
      *
      * @param product Product object to be added to the array.
      * @return Status of the add; true for success, false for fail.
