@@ -1,5 +1,5 @@
 /**
- * The sto,
+ * The sto,,
  */
 
 public class Store {
