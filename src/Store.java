@@ -1,8 +1,5 @@
 /**
- * The store class saves all the entered products into a primitive array.
- *
- * @author Siobhan Drohan, Mairead Meagher
- * @version 2.2
+ * The sto
  */
 
 public class Store {
